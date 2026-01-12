@@ -1,4 +1,9 @@
 # first-proj
-first git project
+
+This is my first project
 <br>
-Auther - Vidyanshi Upadhyay
+Author - Vidyanshi Upadhyay
+
+
+
+
